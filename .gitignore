@@ -1,0 +1,10 @@
+# Files and Folders to be Ignored
+__pycache__/
+.spyproject/
+
+ffmpeg/
+
+tests/
+output/
+# data/
+*.log
